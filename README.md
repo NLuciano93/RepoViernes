@@ -1,4 +1,6 @@
 # RepoViernes
-Primer repo de estructura de los viernes que viene bien
+Primer repo de estructura de los viernes que viene bien 
 
 por ahora
+
+pero bien
